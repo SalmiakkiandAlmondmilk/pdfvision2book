@@ -1,0 +1,3 @@
+# pdfvision2book 运行时依赖
+# 说明: HTTP 调用与 EPUB 打包均使用 Python 标准库实现, 唯一第三方依赖是 PyMuPDF
+pymupdf>=1.24,<2
